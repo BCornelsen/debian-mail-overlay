@@ -8,6 +8,8 @@ Software built from source :
 * Execline 2.6.1.1 : https://skarnet.org/software/execline/
 * s6 2.9.2.0 : https://skarnet.org/software/s6/
 * Rspamd 2.6 : https://rspamd.com/
-* Gucci 1.2.2 : https://github.com/noqcks/gucci/
+* Gucci 0.1.0 : https://github.com/noqcks/gucci/
+
+Gucci is still an old version, because the new version breaks, if a variable is not set and the old inserts <no value> and continues.
 
 Please see the [main repository](https://github.com/hardware/mailserver) for instructions.
